@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Eujo",
+        "position": "Forward",
+        "number": 7,
+        "image":"assets/images/Player Eujo.jpg"
+    },
+    {
+        "name": "Frank",
+        "position": "Midfielder",
+        "number": 8,
+        "image": "assets/images/MF Frank.jpg"
+    },
+    {
+        "name": "Kabati",
+        "position": "Defender",
+        "number": 43,
+        "image": "assets/images/Kabati CB.jpg"
+    },
+    {
+        "name": "Walter",
+        "position": "Midfielder",
+        "number": 6,
+        "image": "assets/images/MF Walter.jpg"
+    },
+    {
+        "name": "Jaliwa",
+        "position": "Defender",
+        "number": 3,
+        "image": "assets/images/DF Jaliwa.jpg"
+    },
+    {
+        "name": "Javi",
+        "position": "Forward",
+        "number": 12,
+        "image": "assets/images/FW Javi.jpg"
+    },
+    {
+        "name": "Mwas",
+        "position": "Midfielder",
+        "number": 17,
+        "image": "assets/images/FW Mwas.jpg"
+    },
+    {
+        "name": "Stivo",
+        "position": "Foward",
+        "number": 11,
+        "image": "assets/images/FW Stivo.jpg"
+    },
+    {
+        "name": "Yassin",
+        "position": "Midfielder",
+        "number": 18,
+        "image": "assets/images/MF Yasssin.jpg"
+    },
+    {
+        "name": "Doku",
+        "position": "Foward",
+        "number": 24,
+        "image": "assets/images/FW Doku.jpg"
+    },
+    {
+        "name": "Moreh",
+        "position": "Defender",
+        "number": 2,
+        "image": "assets/images/DF Moreh.jpg"
+    },
+    {
+        "name": "Rode",
+        "position": "Defender",
+        "number": 4,
+        "image": "assets/images/CB Rode.jpg"
+    },
+    {
+        "name": "Yuri",
+        "position": "Defender",
+        "number": 5,
+        "image": "assets/images/CB Yuri.jpg"
+    }
+    
+]
