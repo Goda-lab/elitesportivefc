@@ -89,11 +89,11 @@ body {
 /* Responsive - Mobile View */
 @media screen and (max-width: 768px) {
     .navbar {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
     .nav-links {
-        flex-direction: column;
+        flex-direction: row;
         text-align: center;
     }
     .nav-links li {
