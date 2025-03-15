@@ -144,9 +144,21 @@
         "image": "assets/images/FW Santos.jpg"
     },
     {
-        "name": "Miann",
+        "name": "Nico",
+        "position": "Midfielder",
+        "number": 38,
+        "image": "assets/images/MF Nico.jpg"
+    },
+    {
+        "name": "Pius",
         "position": "Goalkeeper",
         "number": 1,
+        "image": "assets/images/GK Pius.jpg"
+    },
+    {
+        "name": "Miann",
+        "position": "Goalkeeper",
+        "number": 99,
         "image": "assets/images/GK Miann.jpg"
     }
     
