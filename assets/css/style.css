@@ -157,3 +157,25 @@ body {
     color: #FFD700;
     font-weight: bold;
 }
+
+.media-team {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.team-member {
+    text-align: center;
+}
+
+.team-member img {
+    width: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.team-member p {
+    font-size: 1.2em;
+    font-weight: bold;
+}
