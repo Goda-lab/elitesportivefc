@@ -3,18 +3,40 @@
         "date": "2025-02-10",
         "home": "Fedha Boys",
         "away": "Elite Sportive FC",
-        "score": "2-1"
+        "score": "2-1",
+        "scorers": {
+            "Fedha Boys": ["Abdi", "Hussein"],
+            "Elite Sportive FC": ["Eujo"]
+        }
     },
     {
         "date": "2025-03-1",
-        "home": "Olympia",
+        "home": "Olympia Berets",
         "away": "Elite Sportive FC",
-        "score": "3-0"
+        "score": "3-0",
+        "scorers": {
+            "Olympia Berets": ["Brad", "Brad", "Alex"],
+            "Elite Sportive FC": []
+        }
     },
     {
         "date": "2025-03-16",
         "home": "Team Alpha",
         "away": "Elite Sportive FC",
-        "score": "0-1"
+        "score": "0-1",
+        "scorers": {
+            "Team Alpha": [],
+            "Elite Sportive FC": ["Paulo"]
+        }
+    },
+    {
+        "date": "2025-03-29",
+        "home": "Team Alpha",
+        "away": "Elite Sportive FC",
+        "score": "1-7",
+        "scorers": {
+            "Team Alpha": ["Collo"],
+            "Elite Sportive FC": ["Eujo", "Walter", "Stivo", "Kahush", "Mwas", "Kahush", "Walter"]
+        }
     }
 ]

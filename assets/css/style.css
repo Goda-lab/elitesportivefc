@@ -179,3 +179,71 @@ body {
     font-size: 1.2em;
     font-weight: bold;
 }
+/* Match container */
+.match {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+/* Match title */
+.match h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+    font-size: 1.2em;
+}
+
+/* Match date */
+.match-date {
+    margin: 5px 0;
+    font-size: 1em;
+    color: #555;
+    font-style: italic;
+}
+
+/* Scoreboard layout */
+.scoreboard {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; /* Align items at the top */
+    margin-top: 10px;
+}
+
+/* Team container */
+.team {
+    flex: 1;
+    text-align: center;
+}
+
+/* Team score */
+.team p {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0;
+    color: #00274D; /* Dark Blue */
+}
+
+/* Player list */
+.team ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+/* Player list items */
+.team ul li {
+    font-size: 0.9em;
+    color: #333;
+}
+
+/* Separator between scores */
+.separator {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 10px;
+    color: #333;
+    align-self: center; /* Keep separator vertically centered */
+}
